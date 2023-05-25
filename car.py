@@ -15,5 +15,4 @@ class Car:
     
     def distance_covered(self,time):
         return f"The car covered a distance of {self.speed*time} kms"
-    
-    
+ 
